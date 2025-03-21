@@ -1,0 +1,19 @@
+﻿  BilateralDNSUVFilter_Basic.cpp
+BilateralDNSUVFilter_Basic.cpp(12): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+BilateralDNSUVFilter_Basic.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+BilateralDNSUVFilter_Basic.cpp(21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  BilateralUVDNSFilter_Basic.cpp
+BilateralUVDNSFilter_Basic.cpp(9): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+BilateralUVDNSFilter_Basic.cpp(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+BilateralUVDNSFilter_Basic.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  DNSUVFilter.cpp
+  DNSYFilter.cpp
+  NLM_DNSYFilter_Basic.cpp
+  NLM_YDNSFilter_Basic.cpp
+NLM_YDNSFilter_Basic.cpp(668): warning C4018: “>=”: 有符号/无符号不匹配
+NLM_YDNSFilter_Basic.cpp(672): warning C4018: “<=”: 有符号/无符号不匹配
+NLM_YDNSFilter_Basic.cpp(732): warning C4018: “>=”: 有符号/无符号不匹配
+NLM_YDNSFilter_Basic.cpp(736): warning C4018: “<=”: 有符号/无符号不匹配
+  PyramidYUVDNSFilter.cpp
+  WaveletPyramidYUV420DNSFilter.cpp
+  ImgProcLib.vcxproj -> E:\Documents\projects\autoFocus\AF\x64\Release\ImgProcLib.lib

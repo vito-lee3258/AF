@@ -1,0 +1,243 @@
+MainSize=[960,720]
+SecondSize=[800,600]
+AngleX=0.000782 AngleY=0.000427 AngleZ=0.381948 (degrees)
+Real FocusPos = [208 453]
+Open file dump\Main_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_3.bmp fail!!! errcode=2
+1.027223,1.324096
+Rotation:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K1:
+  1.32409596	  0.00000000	  0.00000000	
+  0.00000000	  1.32409596	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T1:
+  0.00000000	 -1.00000000	397.00000000	
+  1.00000000	  0.00000000	-529.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+R:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K2:
+  1.02711594	  0.00000000	  0.00000000	
+  0.00000000	  1.02711594	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T2:
+  0.00000000	  1.00000000	544.00000000	
+ -1.00000000	  0.00000000	408.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+H:
+  1.38390124	 -0.00373313	 -2.17652488	
+  0.01661298	  1.37803268	 -7.61080742	
+  0.00001827	  0.00000997	  1.00000000	
+SecondCorrection=78
+Open file dump\Second_correct.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_3.bmp fail!!! errcode=2
+--WindowStat--
+m_fDiffX=103974.000000
+m_fDiffY=30444.000000
+m_fSobel=2212221.000000
+m_fTV1DHor=98.922481
+m_fTV1DVer=138.465116
+m_fHorSD1D=8.582748
+m_fVerSD1D=16.865578
+m_fMeanVal=152.000000
+--------------
+--BlockMatch--
+Offset=[26,54]->[27,54], fmax=0.972737, Single
+Offset=[54,108]->[54,108], fmax=0.920299, Single
+Offset=[108,216]->[108,215], fmax=0.852935, Single
+Offset=[216,430]->[215,430], fmax=0.803037, Single
+--------------
+Block Center: [208 453]<->[279 494]
+Remove Center:[dx,dy]=[0.208374 4.535370]
+Open file dump\MatchedBlock.bmp fail!!! errcode=2
+**************DAC_=370**********************
+Real FocusPos = [208 453]
+Open file dump\Main_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_3.bmp fail!!! errcode=2
+0.996522,1.324096
+Rotation:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K1:
+  1.32409596	  0.00000000	  0.00000000	
+  0.00000000	  1.32409596	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T1:
+  0.00000000	 -1.00000000	397.00000000	
+  1.00000000	  0.00000000	-529.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+R:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K2:
+  0.99690664	  0.00000000	  0.00000000	
+  0.00000000	  0.99690664	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T2:
+  0.00000000	  1.00000000	528.00000000	
+ -1.00000000	  0.00000000	396.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+H:
+  1.34319830	 -0.00362333	 -2.11258030	
+  0.01612436	  1.33750236	 -7.38697052	
+  0.00001827	  0.00000997	  1.00000000	
+SecondCorrection=62
+Open file dump\Second_correct.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_3.bmp fail!!! errcode=2
+--WindowStat--
+m_fDiffX=17286.000000
+m_fDiffY=21414.000000
+m_fSobel=1163322.000000
+m_fTV1DHor=216.666667
+m_fTV1DVer=173.155039
+m_fHorSD1D=27.824694
+m_fVerSD1D=17.246630
+m_fMeanVal=142.000000
+--------------
+--BlockMatch--
+Offset=[24,53]->[25,52], fmax=0.957105, Single
+Offset=[50,104]->[49,105], fmax=0.978749, Single
+Offset=[98,210]->[99,210], fmax=0.952319, Single
+Offset=[198,420]->[197,419], fmax=0.957388, Single
+--------------
+Block Center: [208 453]<->[261 483]
+Remove Center:[dx,dy]=[-5.949280 6.324585]
+Open file dump\MatchedBlock.bmp fail!!! errcode=2
+**************DAC_=330**********************
+Real FocusPos = [208 453]
+Open file dump\Main_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_3.bmp fail!!! errcode=2
+0.989620,1.324096
+Rotation:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K1:
+  1.32409596	  0.00000000	  0.00000000	
+  0.00000000	  1.32409596	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T1:
+  0.00000000	 -1.00000000	397.00000000	
+  1.00000000	  0.00000000	-529.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+R:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K2:
+  0.98935425	  0.00000000	  0.00000000	
+  0.00000000	  0.98935425	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T2:
+  0.00000000	  1.00000000	524.00000000	
+ -1.00000000	  0.00000000	393.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+H:
+  1.33302248	 -0.00359588	 -2.09654784	
+  0.01600221	  1.32736957	 -7.33098030	
+  0.00001827	  0.00000997	  1.00000000	
+SecondCorrection=62
+Open file dump\Second_correct.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_3.bmp fail!!! errcode=2
+--WindowStat--
+m_fDiffX=21543.000000
+m_fDiffY=32121.000000
+m_fSobel=1558707.000000
+m_fTV1DHor=294.527132
+m_fTV1DVer=241.689922
+m_fHorSD1D=32.130554
+m_fVerSD1D=17.509641
+m_fMeanVal=140.000000
+--------------
+--BlockMatch--
+Offset=[23,52]->[24,52], fmax=0.994403, Single
+Offset=[48,104]->[48,104], fmax=0.987494, Single
+Offset=[96,208]->[96,208], fmax=0.968893, Single
+Offset=[192,416]->[193,416], fmax=0.956065, Single
+--------------
+Block Center: [208 453]<->[257 480]
+Remove Center:[dx,dy]=[-7.852905 6.975433]
+Open file dump\MatchedBlock.bmp fail!!! errcode=2
+**************DAC_=320**********************
+Real FocusPos = [208 453]
+Open file dump\Main_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Main_Pyramid_3.bmp fail!!! errcode=2
+0.987905,1.324096
+Rotation:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K1:
+  1.32409596	  0.00000000	  0.00000000	
+  0.00000000	  1.32409596	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T1:
+  0.00000000	 -1.00000000	397.00000000	
+  1.00000000	  0.00000000	-529.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+R:
+  0.99997777	 -0.00666619	  0.00000755	
+  0.00666619	  0.99997777	 -0.00001361	
+ -0.00000746	  0.00001366	  1.00000000	
+K2:
+  0.98746622	  0.00000000	  0.00000000	
+  0.00000000	  0.98809552	  0.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+T2:
+  0.00000000	  1.00000000	523.00000000	
+ -1.00000000	  0.00000000	392.00000000	
+  0.00000000	  0.00000000	  1.00000000	
+H:
+  1.33132041	 -0.00359463	 -2.42718577	
+  0.01596710	  1.32483411	 -7.56702662	
+  0.00001827	  0.00000997	  1.00000000	
+SecondCorrection=78
+Open file dump\Second_correct.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_0.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_1.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_2.bmp fail!!! errcode=2
+Open file dump\Second_Pyramid_3.bmp fail!!! errcode=2
+--WindowStat--
+m_fDiffX=20640.000000
+m_fDiffY=36378.000000
+m_fSobel=1684224.000000
+m_fTV1DHor=306.170543
+m_fTV1DVer=273.689922
+m_fHorSD1D=32.346047
+m_fVerSD1D=17.135381
+m_fMeanVal=136.000000
+--------------
+--BlockMatch--
+Offset=[23,52]->[24,52], fmax=0.995079, Single
+Offset=[48,104]->[48,104], fmax=0.988867, Single
+Offset=[96,208]->[96,208], fmax=0.973167, Single
+Offset=[192,416]->[192,415], fmax=0.947600, Single
+--------------
+Block Center: [208 453]<->[256 479]
+Remove Center:[dx,dy]=[-8.330017 7.638550]
+Open file dump\MatchedBlock.bmp fail!!! errcode=2
+**************DAC_=320**********************

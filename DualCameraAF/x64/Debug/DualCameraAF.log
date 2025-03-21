@@ -1,0 +1,18 @@
+﻿  CDualCameraFastAFFilter.cpp
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.h(254): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(110): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(111): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(143): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(144): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(337): warning C4101: “y1”: 未引用的局部变量
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(337): warning C4101: “x1”: 未引用的局部变量
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(412): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(413): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(391): warning C4101: “i”: 未引用的局部变量
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(679): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(680): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(776): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\documents\projects\autofocus\af\dualcameraaf\cdualcamerafastaffilter.cpp(777): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  DualCameraAF.vcxproj -> E:\Documents\projects\autoFocus\AF\x64\Debug\DualCameraAF.exe
+  DualCameraAF.vcxproj -> E:\Documents\projects\autoFocus\AF\x64\Debug\DualCameraAF.pdb (Full PDB)

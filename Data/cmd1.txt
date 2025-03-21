@@ -1,0 +1,1 @@
+1280x960_main_0137_dac0285_80147441.bmp 1280x960_sub_0137_dac0285_80147451_2.bmp Test -MainSize [1280,960] -SecondSize [1280,960] -FocusXY [1042,181] -FocusWin 128 -fSecondScale 1.0768

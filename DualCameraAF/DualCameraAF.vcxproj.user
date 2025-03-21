@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerCommandArguments>230.bmp FF.bmp Test -MainSize [960,720] -SecondSize [800,600] -FocusXY [800,795] -FocusWin 64 -nDAC 230 -Cali Cali.txt</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>E:\Documents\projects\autoFocus\AF\x64\Release</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerCommandArguments>230.bmp FF.bmp Test -MainSize [960,720] -SecondSize [800,600] -FocusXY [800,795] -FocusWin 64 -nDAC 230 -Cali Cali.txt -SingleStepMode</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>E:\Documents\projects\autoFocus\AF\x64\Release</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

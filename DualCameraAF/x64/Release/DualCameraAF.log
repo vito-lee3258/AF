@@ -1,0 +1,23 @@
+﻿  CDualCameraFastAFFilter.cpp
+e:\documents\projects\autofocus\af\dualcameraaf\CDualCameraFastAFFilter.h(254): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(110): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(111): warning C4244: “=”: 从“__int64”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(143): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(144): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(337): warning C4101: “y1”: 未引用的局部变量
+CDualCameraFastAFFilter.cpp(337): warning C4101: “x1”: 未引用的局部变量
+CDualCameraFastAFFilter.cpp(412): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+CDualCameraFastAFFilter.cpp(413): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+CDualCameraFastAFFilter.cpp(391): warning C4101: “i”: 未引用的局部变量
+CDualCameraFastAFFilter.cpp(679): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(680): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+CDualCameraFastAFFilter.cpp(776): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+CDualCameraFastAFFilter.cpp(777): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  23 of 222 functions (10.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DualCameraAF.vcxproj -> E:\Documents\projects\autoFocus\AF\x64\Release\DualCameraAF.exe
+  DualCameraAF.vcxproj -> E:\Documents\projects\autoFocus\AF\x64\Release\DualCameraAF.pdb (Full PDB)
